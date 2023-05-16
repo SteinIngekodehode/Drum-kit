@@ -1,0 +1,58 @@
+
+
+#drumkit {
+display: grid;
+grid-template-columns: repeat(3,1fr);
+width: 600px;
+height: 600px;
+border: 2px solid black;
+padding: 20px;
+}
+
+.clapper {
+width: 100px;
+height: 100px;
+border-radius: 100%;
+}
+
+.hihater {
+width: 100px;
+height: 100px;
+border-radius: 100%;
+}
+
+.kicker {
+width: 100px;
+height: 100px;
+border-radius: 100%;
+}
+
+.openhater {
+width: 100px;
+height: 100px;
+border-radius: 100%;
+}
+
+.rider {
+width: 100px;
+height: 100px;
+border-radius: 100%;
+}
+
+.snarer {
+width: 100px;
+height: 100px;
+border-radius: 100%;
+}
+
+.tinker {
+width: 100px;
+height: 100px;
+border-radius: 100%;
+}
+
+.tomer {
+width: 100px;
+height: 100px;
+border-radius: 100%;
+}
